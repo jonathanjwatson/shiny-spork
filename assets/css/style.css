@@ -1,0 +1,18 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+li {
+  background-color: cornflowerblue;
+  color: azure;
+}
+
+.section-heading {
+  color: blueviolet;
+  font-family: cursive;
+}
+
+#welcome {
+  color: magenta;
+}
